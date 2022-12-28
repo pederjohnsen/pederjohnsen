@@ -4,7 +4,6 @@
 
 I'm a software developer and a hobby musician hailing from Norway currently residing in the UK.
 
-- Currently job hunting, please get in touch!
 - Lead maintainer of <a href="https://github.com/tunoltd/emoji-mart-native" target="_blank">@tunoltd/emoji-mart-native</a>, a React Native port of <a href="https://github.com/missive/emoji-mart" target="_blank">@missive/emoji-mart</a>.
 - How to reach me: peder@sent.as or <a href="https://twitter.com/pederjohnsen" target="_blank">@pederjohnsen</a> on Twitter.
 
